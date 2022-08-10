@@ -51,8 +51,12 @@ Fonctionne nativement avec les IDE: Spyders, EduPython
 SOURCES
 ----------------------------------------------------------
 Source: https://www.youtube.com/watch?v=oT92MVBPMAY
-Jeu Original: Windoze (1984 MS-DOS)
+Jeu Original: Windoze (1994 MS-DOS)
 Auteur original: Loren Blaney
+
+Vous pouvez retrouver le jeu original, et y jouer via
+navigateur ici:
+https://archive.org/details/msdos_Windoze_1994
 
 Les différents contenus utilisés appartiennent à leur
 propriétaire respectif.
